@@ -1,4 +1,4 @@
-## Olá! Gabriel Xavier aqui! 
+## Olá! Gabriel Xavier aqui 😃
 - 🌱 Eu no momento estou aprendendo JAVA 
 ##
 **Linguagens && Ferramentas:** 
