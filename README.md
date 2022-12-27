@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Xavier 
 
 - 🌱 Eu estou aprendendo JAVA
-- 📫 How to reach me: gabrielgrx@gmail.com 
+- 📫 Pode me encontrar em: gabrielgrx@gmail.com
 
 <div align="center">
   <a href="https://github.com/gabrielgrx">
